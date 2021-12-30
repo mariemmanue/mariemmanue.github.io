@@ -83,8 +83,8 @@ author:
   name             : "Marie Tano"
   avatar           : "image.png"
   bio              : 
-  location         : "Bay Area"
-  employer         : Stanford University
+  location         : 
+  employer         : "Stanford University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=5x7hakwAAAAJ"
   email            : "mtano@stanford.edu"
