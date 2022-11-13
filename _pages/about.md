@@ -12,4 +12,4 @@ I am a first-year PhD student in Linguistics at Stanford University, advised by 
 
 Currently, I am examining how second generation Africans use African-American English (among other dialects) in order to navigate their hybrid identities. I am also interested in the perception and use of African-American English on social media, as well as the construction of race and gender through language. 
 
-Outside of the Linguistics Department, I am a member of Dr. Anne Charity Hudley’s [BAD Lab](https://badlab.stanford.edu/), while also serving as a graduate student assistant to her [joint-project](https://charityhudleydickterfranz.com) with Dr. Hannah Franz. I am also a graduate student research affiliate of Stanford’s [SPARQ](https://sparq.stanford.edu/who-we-are/our-team).
+Outside of the Linguistics Department, I am a member of Dr. Anne Charity Hudley’s [BAD Lab](https://badlab.stanford.edu/), while also serving as a graduate student assistant to her [joint-project](https://charityhudleydickterfranz.com) with Dr. Hannah Franz. I am also apart of the Stanford [NLP group](https://nlp.stanford.edu/).
