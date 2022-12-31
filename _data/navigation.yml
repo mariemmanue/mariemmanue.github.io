@@ -12,8 +12,8 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
         
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title: "Personal Blog on all Things Language"
+    url: https://medium.com/@mariemmanue
     
   - title: "CV"
     url: https://mariemmanue.github.io/files/2022CV.pdf
