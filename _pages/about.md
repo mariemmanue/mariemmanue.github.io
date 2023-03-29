@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Linguistics at Stanford University, advised by Dan Jurafsky and Rob Podesva. I am broadly interested in sociolinguistics and Natural Language Processing (NLP), in addition to psycholinguistics and phonetics.  
+I am a PhD student in Linguistics at Stanford University, advised by Dan Jurafsky and Rob Podesva. I am broadly interested in sociolinguistics and Natural Language Processing (NLP), in addition to psycholinguistics and phonetics. I am supported by Stanford's EDGE Fellowship, as well as the NSF Graduate Research Fellowship Program (GRFP). 
 
 My current research combines methodolgies from NLP, psycholinguistics, and social psychology. Currently, my work seeks to problemitize the differences in the language processing capabilities of humans and algorithms; specifically regarding the ways in which the media sensationalizes violent crimes at the expense of victims of police brutality. I also am interested in raciolinguistics and Diasporic realizations of Blackness through languages such as African-American English and other linguistic varieties. 
 
