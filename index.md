@@ -12,6 +12,10 @@ I’ve been supported by the [NSF-GRFP](https://www.pomona.edu/news/2023/05/03-e
 
 ## Research Activity
 
+**2026**
+- Awarded an [ACCESS Discover Allocation](https://allocations.access-ci.org/) for *"Linguistically Grounded Dialect Modeling for Robust AI Systems"* ($37,500), National Science Foundation (February 2026–February 2027).
+- Recipient of a Graduate Research Mini-Grant from the [Research Institute at the Center for Comparative Studies in Race and Ethnicity (CCSRE)](https://ccsre.stanford.edu/), Stanford University ($1,000).
+
 **2025**
 - *Improving Neutral Point-of-View Generation with Data- and Parameter-Efficient RL.*  
   Jessica Hoffmann, Christiane Ahlheim, Zac Yu, Aria Walfrand, Jarvis Jin, **Marie Tano**, Ahmad Beirami, Erin van Liemt, Nithum Thain, Hakim Sidahmed, & Lucas Dixon.  
